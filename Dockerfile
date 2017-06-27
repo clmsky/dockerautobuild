@@ -1,1 +1,1 @@
-from gcr.io/google_containers/exechealthz-amd64:1.2
+from gcr.io/google_containers/kubedns-amd644:1.9

@@ -1,1 +1,1 @@
-from gcr.io/google_containers/kube-dnsmasq-amd64:1.4.1
+from gcr.io/google_containers/exechealthz-amd64:1.2

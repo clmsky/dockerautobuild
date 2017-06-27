@@ -1,1 +1,1 @@
-from gcr.io/google_containers/dnsmasq-metrics-amd64:1.0.1
+from gcr.io/google_containers/kube-dnsmasq-amd64:1.4.1
